@@ -3,17 +3,20 @@
 I don't know what you're doing here but ✨ YAY VISITORS ✨ !
 
 Member of :
-🍫 ChocoComputerClub
-🏴‍☠️ YPE / PPFR
+
+- 🍫 ChocoComputerClub
+- 🏴‍☠️ YPE / PPFR
 
 🌐 My websites :
-Perso : https://habert.me
-Pro : https://carbonlab.dev
-Status : https://louciole.github.io/carbon-status/
+
+- Perso : https://habert.me
+- Pro : https://carbonlab.dev
+- Status : https://louciole.github.io/carbon-status/
 
 📫 How to reach me ?
-Perso : lou@habert.me
-pro : lou@carbonlab.dev / loha@odoo.com
+
+- Perso : lou@habert.me
+- Pro : lou@carbonlab.dev / loha@odoo.com
 
 <!--
 **Louciole/louciole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
