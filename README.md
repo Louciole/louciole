@@ -5,10 +5,10 @@ I don't know what you're doing here but ✨ YAY VISITORS ✨ !
 Member of :
 
 - 🍫 ChocoComputerClub
-- 🏴‍☠️ YPE / PPFR
 
 🌐 My websites :
 
+- Gitlab : https://gitlab.com/Louciole
 - Perso : https://habert.me
 - Portfolio : https://habert.me/portfolio
 - Pro : https://carbonlab.dev
