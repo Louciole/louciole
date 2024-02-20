@@ -12,7 +12,7 @@ Member of :
 - Perso : https://habert.me
 - Portfolio : https://habert.me/portfolio
 - Pro : https://carbonlab.dev
-- Status : https://louciole.github.io/carbon-status/
+- Status : https://status.carbonlab.dev
 
 📫 How to reach me ?
 
