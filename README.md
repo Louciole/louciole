@@ -10,7 +10,6 @@ Member of :
 
 - Gitlab : https://gitlab.com/Louciole
 - Perso : https://habert.me
-- Portfolio : https://habert.me/portfolio
 - Pro : https://carbonlab.dev
 - Status : https://status.carbonlab.dev
 
