@@ -2,10 +2,6 @@
 
 I don't know what you're doing here but ✨ YAY VISITORS ✨ !
 
-Member of :
-
-- 🍫 ChocoComputerClub
-
 🌐 My websites :
 
 - Gitlab : https://gitlab.com/Louciole
